@@ -1,7 +1,7 @@
 # jioeva
-JIO EVA Intern<br>
-Mentors: Sapna Thakkar, Swapnil Masurekar<br>
-Duration: 11/01/2024 - 11/04/2024
+JIO EVA Internship<br>
+
+Added some example NLP tasks I performed in my internship for future notebook reference.
 
 Task 1:-
 1. Write a module in Python where you detect singular and plural in sentences.
